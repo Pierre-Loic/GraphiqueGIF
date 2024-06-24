@@ -1,6 +1,6 @@
 # 🛠️ Création de graphiques animés sous forme de GIF
 
-💻 Lien vers le notebook : https://pierre-loic.github.io/GraphiqueGIF/
+💻 Lien vers le notebook (pas d'installation nécessaire, le notebook tourne dans votre navigateur, c'est un [Jupyter Lite](https://jupyterlite.readthedocs.io/en/stable/)) : https://pierre-loic.github.io/GraphiqueGIF/
 
 Ce notebook explique comment créer simplement des graphiques animés sous forme de GIF. Seulement **3 bibliothèques Python externes** sont utilisées :
 
