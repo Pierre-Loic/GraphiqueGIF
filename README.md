@@ -1,6 +1,16 @@
 # 🛠️ Création de graphiques animés sous forme de GIF
 
-💻 Lien vers le notebook (pas d'installation nécessaire, le notebook tourne dans votre navigateur, c'est un [Jupyter Lite](https://jupyterlite.readthedocs.io/en/stable/)) : https://pierre-loic.github.io/GraphiqueGIF/
+Vous avez plusieurs possibilités pour utiliser ce notebook :
+
+- 💻 Directement dans votre navigateur sans installation (utilisation de [Jupyter Lite](https://jupyterlite.readthedocs.io/en/stable/)) : https://pierre-loic.github.io/GraphiqueGIF/
+
+- 🌐 Avec Colaboratory (nécessite un compte Google) : <a href="https://colab.research.google.com/github/Pierre-Loic/GraphiqueGIF/blob/main/content/Notebook_GIF.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="25px"/>
+</a>
+
+- 🖥️ En local, dans un **environnement virtuel** en clonant ce dépôt GIT et utilisant le fichier `requirements.txt` pour installer les bibliothèques Python nécessaires
+
+___
 
 Ce notebook explique comment créer simplement des graphiques animés sous forme de GIF. Seulement **3 bibliothèques Python externes** sont utilisées :
 
